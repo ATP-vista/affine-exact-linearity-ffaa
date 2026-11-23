@@ -1,0 +1,15 @@
+ 3  tests=   2  gap in [-287682072594,-287682072318] / 1000000000000 nats
+ 4  tests=  15  gap in [-108848420769,-108848416370] / 1000000000000 nats
+    split control gap >= 420003010494 / 1000000000000 nats
+ 5  tests= 175  gap in [-12932649511,-12932645586] / 1000000000000 nats
+    split control gap >= 225037004457 / 1000000000000 nats
+6a  tests=2546  gap in [-19307202853,-19307164965] / 1000000000000 nats
+    split control gap >= 2949729490322 / 1000000000000 nats
+6b  tests=2546  gap in [-19307202853,-19307164965] / 1000000000000 nats
+    split control gap >= 2949729490322 / 1000000000000 nats
+6c  tests=2546  gap in [-2190129114,-2190124670] / 1000000000000 nats
+    split control gap >= 152697104076 / 1000000000000 nats
+n=3  all=6  nonsplit=2  by dimension=[1, 1]  uncovered=0
+n=4  all=28  nonsplit=7  by dimension=[0, 6, 1]  uncovered=0
+n=5  all=212  nonsplit=41  by dimension=[0, 15, 25, 1]  uncovered=0
+n=6  all=2664  nonsplit=436  by dimension=[0, 0, 345, 90, 1]  uncovered=0
